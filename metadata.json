@@ -1,0 +1,5 @@
+{
+  "name": "Vulnability Agent",
+  "description": "A high-performance AI security researcher that detects and reports vulnerabilities in code, architecture, and endpoints with forensic precision.",
+  "requestFramePermissions": []
+}
